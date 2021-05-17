@@ -1,0 +1,16 @@
+; Número perfecto: 14,28
+; es la suma de sus divisores propios
+
+imprimir('n: ')
+leer(n)
+a = 0
+i = 1
+while i<n
+  if n%i == 0
+    a = a+1
+  end
+  i = i+1
+end
+if a == n
+  imprimir('Numero perfecto')
+end

@@ -1,0 +1,15 @@
+; División con restas
+
+imprimir('a: ')
+leer(a)
+imprimir('b: ')
+leer(b)
+q = 0
+while a >= b
+  q = q+1
+  a = a-b
+end
+imprimir('Cocientes: ')
+imprimir(q)
+imprimir('Residuos: ')
+imprimir(a)

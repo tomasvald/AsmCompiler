@@ -1,0 +1,27 @@
+// Factorial
+
+imprimir('n: ')
+leer(n)
+i = 1
+f = 1
+while i<=n
+f = f*i
+i = i+1
+end
+imprimir('El factorial es: ')
+imprimir(f)
+
+// Elevar a una potencia
+
+imprimir('Ingrese base a: ')
+leer(a)
+c = a
+imprimir('Ingrese potencia b: ')
+leer(b)
+i = 2
+while i<=b
+c = c*a
+i = i+1
+end
+imprimir('a elevado a la b es:')
+imprimir(c)

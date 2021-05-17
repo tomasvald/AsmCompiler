@@ -1,0 +1,9 @@
+C:\Users\Thom\OneDrive\5sem\automatas 2\ANALISIS SINTACTICO\PreprocesadorExpresiones\PreprocesadorExpresiones\bin\Debug\PreprocesadorExpresiones.exe.config
+C:\Users\Thom\OneDrive\5sem\automatas 2\ANALISIS SINTACTICO\PreprocesadorExpresiones\PreprocesadorExpresiones\bin\Debug\PreprocesadorExpresiones.exe
+C:\Users\Thom\OneDrive\5sem\automatas 2\ANALISIS SINTACTICO\PreprocesadorExpresiones\PreprocesadorExpresiones\bin\Debug\PreprocesadorExpresiones.pdb
+C:\Users\Thom\OneDrive\5sem\automatas 2\ANALISIS SINTACTICO\PreprocesadorExpresiones\PreprocesadorExpresiones\obj\Debug\PreprocesadorExpresiones.csprojResolveAssemblyReference.cache
+C:\Users\Thom\OneDrive\5sem\automatas 2\ANALISIS SINTACTICO\PreprocesadorExpresiones\PreprocesadorExpresiones\obj\Debug\PreprocesadorExpresiones.exe
+C:\Users\Thom\OneDrive\5sem\automatas 2\ANALISIS SINTACTICO\PreprocesadorExpresiones\PreprocesadorExpresiones\obj\Debug\PreprocesadorExpresiones.pdb
+C:\Users\Thom\Documents\ITQ\5sem\automatas 2\ANALISIS SINTACTICO\PreprocesadorExpresiones\PreprocesadorExpresiones\bin\Debug\PreprocesadorExpresiones.exe.config
+C:\Users\Thom\Documents\ITQ\5sem\automatas 2\ANALISIS SINTACTICO\PreprocesadorExpresiones\PreprocesadorExpresiones\obj\Debug\PreprocesadorExpresiones.exe
+C:\Users\Thom\Documents\ITQ\5sem\automatas 2\ANALISIS SINTACTICO\PreprocesadorExpresiones\PreprocesadorExpresiones\obj\Debug\PreprocesadorExpresiones.pdb

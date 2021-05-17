@@ -1,0 +1,22 @@
+Programa para convertir input.txt a output.asm
+Instrucciones soportadas:                     
+leer(<variable>)
+                     
+imprimir(<variable>)
+mprimir('<cadena>')
+<variable> = <expresión>
+while <condición>
+  ...
+  <instruccion>
+  ...
+  end
+  if <condición>
+  ...
+  <instruccion>
+  ...
+end
+                     
+<var> es cualquier variable de la letra 'a' a la 'z' cuyos valores son 0
+<expresión> puede incluir cualquier operador aritmético, relacional o lógico
+El programa es sensible a mayúsculas, minúsculas y espacios.
+Presione cualquier tecla para cargar el archivo input.txt de la carpeta local.

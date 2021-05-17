@@ -1,0 +1,17 @@
+; Números primos
+
+imprimir('n: ')
+leer(n)
+c = 0
+i = 1
+while i<=n
+  if n%i == 0
+    c = c+1
+  end
+  i = i+1
+if c == 2
+  imprimir(n)
+  imprimir('Es primo')
+else
+  imprimir('NO es primo')
+end
